@@ -1,0 +1,5 @@
+{
+  "name": "IT Asset Management System",
+  "description": "A web-based system to manage company IT assets like laptops, computers, printers, and radios. Features include secure login, asset CRUD, usage history, and Excel data export/import.",
+  "requestFramePermissions": []
+}
